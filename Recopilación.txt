@@ -1,0 +1,3 @@
+Aquí solo voy a subir el fla y la clase, el proyecto completo excede el limite de github
+
+Se encuentra todo funcionando en el disco que será entregado en la clase :)
